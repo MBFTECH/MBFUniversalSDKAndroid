@@ -556,10 +556,6 @@ val loginScreenProperties = Properties().apply {
 MBF.screen(context, "LoginScreen", loginScreenProperties)
 ```
 
-## Author
-
-AiACTIV TECH, tech@aiactiv.io
-
 ## License
 
 MBFUniversalSDK is available under the MIT license. See the LICENSE file for more info.
