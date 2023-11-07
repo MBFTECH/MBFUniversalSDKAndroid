@@ -131,7 +131,7 @@ videoAdLoader.loadAd(adRequest)
 Please make sure exclude ExoPlayer module in MBFUniversalSDK and use it from your dependency instead of
 
 ```javascript
-implementation ('vn.mobifone:universal-sdk:x.x.x') {
+implementation ('vn.mobifone.adhub:MBFUniversalSDK:x.x.x') {
     exclude group: 'androidx.media3', module: 'media3-exoplayer-ima'
 }
 ```
