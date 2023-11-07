@@ -1,6 +1,6 @@
 # MBFUniversalSDK
 
-[![Maven Central](https://img.shields.io/maven-central/v/vn.mobifone/universal-sdk.svg?label=Maven%20Central)](https://mvnrepository.com/artifact/vn.mobifone.adhub/MBFUniversalSDK)
+[![Maven Central](https://img.shields.io/maven-central/v/vn.mobifone.adhub/MBFUniversalSDK.svg?label=Maven%20Central)](https://mvnrepository.com/artifact/vn.mobifone.adhub/MBFUniversalSDK)
 
 Ads and Analytics Framework
 
